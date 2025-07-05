@@ -5,7 +5,7 @@ A comprehensive WordPress plugin that extends Dokan marketplace functionality wi
 ## Plugin Information
 - **Plugin Name**: Dokan Custom
 - **Version**: 1.0.3
-- **Author**: Atta
+- **Author**: Shahid
 - **Description**: Custom functionality for Dokan including grouped products support, postal code delivery system, and enhanced vendor store features
 
 ## Table of Contents
